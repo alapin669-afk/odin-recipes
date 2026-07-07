@@ -1,0 +1,27 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+strong {
+    color: white;
+    background-color: green;
+    border: 0px solid white;
+}
+h1 {
+    text-align: left;
+
+}
+.ol {
+    display: block;
+    margin: 10px auto 30px auto;
+    text-align: left;
+}
+.lu {
+    margin-bottom: 20px;
+    text-align: center;
+   
+}
+h3, h1{
+    border: 3px solid darkcyan;
+    text-align: center;
+    
+}
